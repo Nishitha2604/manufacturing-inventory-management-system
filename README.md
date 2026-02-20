@@ -1,4 +1,13 @@
 # manufacturing-inventory-management-system
+
+installations:
+node.js
+MangoDB Community Server
+MangoDB Compass
+
+
+
+
 How to run 
 
 backend:
